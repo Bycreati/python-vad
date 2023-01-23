@@ -2,6 +2,7 @@
 Requirements:
 + pyaudio - `pip install pyaudio`
 + py-webrtcvad - `pip install webrtcvad`
+Бетин Вячеслав ИБ/б-21-1-о
 '''
 import webrtcvad
 import collections
